@@ -22,7 +22,7 @@ repository               : "smba/smba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.png"
+  avatar           : "profile.png"
   name             : "Dr. Stefan Mühlbauer"
   pronouns         : # example: "she/her"  
   bio              : "Freelance scientific content creator "
