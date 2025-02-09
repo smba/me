@@ -22,7 +22,7 @@ repository               : "smba/smba.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   name             : "Stefan Mühlbauer"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -60,7 +60,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : smba.mas.to# URL
+  mastodon         : smba.mas.to # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
