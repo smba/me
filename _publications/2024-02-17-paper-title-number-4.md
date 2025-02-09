@@ -10,4 +10,13 @@ paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We address the problem of identifying performance changes in the evolution of configurable software systems. Finding optimal
+configurations and configuration options that influence performance is already difficult, but in the light of software evolution,
+configuration-dependent performance changes may lurk in a potentially large number of different versions of the system.
+In this work, we combine two perspectives—variability and time into a novel perspective. We propose an approach to identify con-
+figuration-dependent performance changes retrospectively across the software variants and versions of a software system. In a nutshell, we iteratively sample pairs of configurations and versions and measure the respective performance, which we use to update a
+model of likelihoods for performance changes. Pursuing a search strategy with the goal of measuring selectively and incrementally
+further pairs, we increase the accuracy of identified change points related to configuration options and interactions.
+We have conducted a number of experiments both on controlled synthetic data sets as well as in real-world scenarios with different software systems. Our evaluation demonstrates that we can pinpoint performance shifts to individual configuration options
+and interactions as well as commits introducing change points with high accuracy and at scale. Experiments on three real-world
+systems explore the effectiveness and practicality of our approach.
