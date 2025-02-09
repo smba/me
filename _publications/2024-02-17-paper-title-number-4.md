@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about detecting performance changes lurking in the development history of a software system.'
 date: 2020-02-17
-venue: 'Proceedings ofg the International Conference on Automated Software Engineering (ASE)'
+venue: 'Proceedings of the International Conference on Automated Software Engineering 2020 (ASE '20)'
 paperurl: 'https://sws.informatik.uni-leipzig.de/wp-content/uploads/2020/09/mas_ase_2020.pdf'
 citation: 'Stefan Mühlbauer, Sven Apel, and Norbert Siegmund. Identifying Software Performance Changes Across Variants and Versions. Automated Software Engineering (ASE), pages 611–622. ACM, 2020.'
 ---
