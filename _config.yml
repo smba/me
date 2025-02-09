@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Stefan Mühlbauer"
+title                    : "Dr. Stefan Mühlbauer"
 title_separator          : "-"
-name                     : &name "Stefan Mühlbauer"
+name                     : &name "SDr. tefan Mühlbauer"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "smba/smba.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Stefan Mühlbauer"
+  name             : "Dr. Stefan Mühlbauer"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Leipzig, SN, Germany"
