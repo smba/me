@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Stefan Mühlbauer"
+title                    : "Stefan Mühlbauer"
 title_separator          : "-"
-name                     : &name "SDr. tefan Mühlbauer"
+name                     : &name "Stefan Mühlbauer"
 description              : &description "personal description"
 url                      : https://smba.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "smba/smba.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Stefan Mühlbauer"
+  name             : "Stefan Mühlbauer"
   pronouns         : # example: "she/her"  
   bio              : "Research hobbyist and freelance scientific content creator. Focus on software performance, configurable software systems and coffee."
   location         : "Leipzig, SN, Germany"
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : stefanmb # Username
   mastodon         : smba.mas.to # URL
   medium           : # URL
   pinterest        : # Username
